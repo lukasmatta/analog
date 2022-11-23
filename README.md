@@ -1,10 +1,15 @@
-# Analog
+<p align="center">
+  <a href="https://analogjs.org">
+     <img src="apps/docs-app/static/img/logos/analog-logo.svg" height="128" alt="Analog logo">
+    <h1 align="center">Analog</h1>
+  </a>
+</p>
+
+[Analog](https://analogjs.org) is a meta-framework for building applications and websites with [Angular](https://angular.io).
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-Analog is a meta-framework for building applications and websites with [Angular](https://angular.io).
 
 ## Getting Started
 
